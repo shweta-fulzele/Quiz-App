@@ -1,0 +1,67 @@
+{
+   "questions" : [
+    {
+      "question":"Which is the latest Version of Android?",
+      "answer1": "Oreo",
+      "answer2": "pie",
+      "answer3": "kitkat",
+      "answer4": "Nougat",
+      "correct":"pie"
+     },
+   {
+      "question":"Android is developed specially for?",
+     "answer1": "Laptops",
+      "answer2": "Desktops",
+      "answer3": "Servers",
+      "answer4": "Mobile devices",
+      "correct":"Mobile devices"
+     },
+   {
+       "question":"Android Operating system is based on?",
+       "answer1": "Mac",
+       "answer2": "windows",
+       "answer3": "Linux",
+       "answer4": "Solaris",
+       "correct":"Linux"
+     },
+   {
+       "question":"Android is Developed By?",
+     "answer1": "Apple",
+       "answer2": "Microsoft",
+       "answer3": "Google",
+       "answer4": "Android Inc",
+       "correct":"Android Inc"
+     },
+     {
+       "question":"Layout in android?",
+       "answer1": "Frame layout",
+       "answer2": "Relative Layout",
+       "answer3": "Linear Layout",
+       "answer4": "All of the Above",
+       "correct":"All of the Above"
+     },
+     {
+       "question":"You can shut down an activity by calling its ____method",
+       "answer1": "onDestroy",
+       "answer2": "finishActivity",
+       "answer3": "finish()",
+       "answer4": "none of above",
+       "correct":"finish()"
+     },
+     {
+       "question":"When did google purchase android?",
+       "answer1": "2007",
+       "answer2": "2005",
+       "answer3": "2008",
+       "answer4": "2010",
+       "correct":"2005"
+
+     }
+   ]
+}
+
+
+
+
+   
+   
